@@ -38,13 +38,14 @@ Garcia score: 94
 
 The methods supported are:
 
+to linq expression
+
 *   from(range)
 *   from_random()
 *   from_random(selector)
 *   from_values(range)
 
-
-
+linq methods
 
 *   aggregate(reducer)
 *   aggregate(seed, reducer)
