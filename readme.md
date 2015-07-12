@@ -109,7 +109,7 @@ linq methods
 
 ####g++ 4.8.4
 ```
-g++ -std=c++11 main.cpp enumerable
+g++ -std=c++11 -o enumerable main.cpp
 ```
 
 ####clang++ 3.5
