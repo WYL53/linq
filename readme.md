@@ -38,10 +38,12 @@ Garcia score: 94
 
 The methods supported are:
 
-*	from(range)
-*	from_random()
-*	from_random(selector)
-*	from_values(range)
+*   from(range)
+*   from_random()
+*   from_random(selector)
+*   from_values(range)
+
+
 
 
 *   aggregate(reducer)
